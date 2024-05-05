@@ -20,7 +20,7 @@
 1. Clone o repositório para sua máquina
 
    ```bash
-   git clone https://github.com/ravigithub19/ai-virtual-mouse.git
+   git clone https://github.com/diihgab/ai-virtual-mouse.git
    ```
 
 2. Execute o arquivo python ```AIVirtualMouse.py``` .
