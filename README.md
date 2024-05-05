@@ -1,26 +1,24 @@
-##  Al Mouse Virtual
+## AI Virtual Mouse
 
-> Um sistema baseado em IA para controlar o movimento do mouse usando Python e OpenCV com câmera em tempo real que detecta pontos de referência da mão, rastreia padrões de gestos em vez de um mouse físico.
+> Developed an AI-based approach for controlling the mouse movement using Python and openCV with real-time camera that detects hand landmarks, tracks gesture patterns instead of a physical mouse.
 
-##  Dependências
-> Por favor, instale todas as bibliotecas pendentes necessárias: 
+## Dependencies  -
+> Please install all the required dependencies.
+* openCV - (For image processing and drawing)
+* mediapipe - (For Hand Tracking)
+* autopy - (For controlling the mouse movement and click)
+* numpy
 
+## Installation
 
-| Bibliotecas | Objetivo | 
-| :---: | :--- |
-| OpenCV | Processamento de imagem e desenho. |
-| Mediapipe | Rastreamento manual. | 
-| Autopy | Controlar o movimento do mouse e clique. |
-| NumPy | Uma biblioteca Python usada para trabalhar com arrays. |
+To setup the system for development on your local machine, please follow the instructions below:
 
-##  Instalação por Git
-
-> Para configurar o sistema para desenvolvimento em sua máquina local, siga as instruções abaixo:
-
-1. Clone o repositório para sua máquina
+1. Clone the repository to your machine
 
    ```bash
    git clone https://github.com/ravigithub19/ai-virtual-mouse.git
    ```
 
-2. Execute o arquivo python ```AIVirtualMouse.py``` .
+2. Run the ```AIVirtualMouse.py``` python file.
+   
+
